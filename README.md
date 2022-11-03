@@ -7,16 +7,16 @@
 <a href="https://github.com/nithin644">
   <img align="left" alt="Nithin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/imthepk">
+<a href="https://t.me/">
   <img align="left" alt="Nithin's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/codepur_ka_superhero/">
+<a href="https://instagram.com/i_am_nithin_____________/">
   <img align="left" alt="Nithin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/imthepk/">
+<a href="https://www.facebook.com/">
   <img align="left" alt="Nithin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/mtechviral/">
+<a href="https://www.youtube.com/">
   <img align="left" alt="Nithin's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -24,14 +24,14 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Frontier].
-- 🌱 I’m currently learning more about BlockChain.
+- 🔭 I’m currently working on [Student].
+- 🌱 I’m currently learning more about Cyber Security.
 - 👯 I’m looking to collaborate on [Youtube]
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Instagram __cyber__world_](https://instagram.com/__cyber__world_?utm_medium=copy_link)
+- 📫 How to reach me: [Instagram i_am_nithin_____________(https://instagram.com/i_am_nithin_____________?igshid=YmMyMTA2M2Y=
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- ⚡ Fun fact: Playing Games.....
 
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com//)](/)
 [![GitHub iampawan](https://img.shields.io/github/followers/nithin644?label=follow&style=social)](https://github.com/nithin644)
