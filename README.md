@@ -40,8 +40,6 @@ I'm **[`Nithin`]**, a hacker & Security Researcher and aspiring Cybersecurity Sp
 
 👉 Still Learning Bug hunting & malware forensics.
 
-👉 Managing Tech Communities & Content creator.
-
 👉 Writing Some Useful Tools For Myself 
 
 👉 Building & Contributing To Open Source Projects
