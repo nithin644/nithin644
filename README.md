@@ -92,12 +92,23 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security R
 ---
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<h2 id="github_stats">GitHub Stats 👨‍💻</h2>
+
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/coffinxp/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/nithin644/github-readme-stats"><img src="[https://github-readme-stats.vercel.app/api?username=nithin644&show_icons=true&theme=radical]" width="450"" /></a></p>
+
+<p align="left">
+  <a href="https://github.com/nithin644">
+    <img width="450"
+      src="https://github-readme-stats.vercel.app/api?username=nithin644&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&show_icons=true&custom_title=%20" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/nithin644">
+    <img width="450"
+      src="https://streak-stats.demolab.com?user=nithin644&theme=dark&bg_color=00000000&hide_border=true" />
+  </a>
+</p>
 
 <br><br>
 
