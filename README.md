@@ -111,7 +111,6 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security R
     <img
       src="https://streak-stats.demolab.com?user=nithin644&theme=dark&hide_border=true"
       width="450"
-      alt="GitHub Streak"
     />
   </a>
 </p>
