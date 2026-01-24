@@ -96,6 +96,7 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security R
 
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png" alt="coder"/>
 
+<!-- GitHub Overall Stats -->
 <p align="left">
   <a href="https://github.com/nithin644">
     <img
@@ -106,14 +107,26 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security R
   </a>
 </p>
 
+<!-- GitHub Streak (Current + Longest) -->
 <p align="left">
   <a href="https://github.com/nithin644">
     <img
       src="https://streak-stats.demolab.com?user=nithin644&theme=dark&hide_border=true"
       width="450"
+      alt="GitHub Streak"
     />
   </a>
 </p>
+
+<!-- Most Used Languages -->
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithin644&layout=compact&theme=vision-friendly-dark&hide_border=true"
+    width="450"
+    alt="Most Used Languages"
+  />
+</p>
+
 
 
 <br><br>
