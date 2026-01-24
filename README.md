@@ -111,10 +111,10 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security R
 <p align="left">
   <a href="https://github.com/nithin644">
     <img
-      src="https://streak-stats.demolab.com?user=nithin644&theme=dark&hide_border=true"
-      width="450"
-      alt="GitHub Streak"
-    />
+  src="https://github-readme-streak-stats.herokuapp.com?user=nithin644&theme=dark&hide_border=true"
+  width="450"
+  alt="GitHub Streak"
+/>
   </a>
 </p>
 
