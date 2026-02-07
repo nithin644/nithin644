@@ -99,7 +99,7 @@ I'm **[`Nithin`](https://www.instagram.com/nithin_palegar_____/)**, a  Security 
 <p align="left">
   <a href="https://github.com/nithin644">
     <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=nithin644&theme=dark&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=nithin644&theme=dark&hide_border=true"
   width="450"
   alt="GitHub Streak"
 />
