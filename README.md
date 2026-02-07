@@ -88,7 +88,7 @@ I'm **[`Nithin`](https://www.instagram.com/nithin_palegar_____/)**, a  Security 
 <p align="left">
   <a href="https://github.com/nithin644">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=nithin644&show_icons=true&theme=vision-friendly-dark&hide_border=true"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=nithin644&show_icons=true&theme=vision-friendly-dark&hide_border=true"
       width="450"
       alt="GitHub Stats"
     />
