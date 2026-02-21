@@ -15,8 +15,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Nithin`](https://www.instagram.com/nithin_palegar_____/)**, a  Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
-
+Nithin Palegar, also known as Nithin Kumar, is a Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment, and bug hunting, My  goal is to safeguard digital assets and contribute to a more secure online community.
 
 <details>
   <summary>More about me</summary>
